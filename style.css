@@ -21,10 +21,11 @@ button{
     border-radius: 50%;
     /* padding: 5px; */
 }
+
 p{
     color: white;
 }
 
-dark{
-    color: rgb(109, 109, 109);
+.dark{
+    color: rgb(147, 38, 38);
 }
